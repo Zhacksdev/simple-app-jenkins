@@ -1,2 +1,1 @@
-
-# webhook-practicum
+# simple-app-jenkins
